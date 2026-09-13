@@ -62,3 +62,7 @@ My goal is to continue growing my experience in technology and eventually contri
 git commit -m "Polish profile and add personality"
 git push
 
+git add README.md
+git commit -m "Resolve merge conflict in README"
+git push
+
