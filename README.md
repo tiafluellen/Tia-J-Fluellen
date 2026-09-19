@@ -1,3 +1,5 @@
+This profile is being developed through hands-on Git practice.
+
 # Hi, I'm Tia Fluellen! 👋
 
 I'm a college student interested in technology, software development, and product management.
