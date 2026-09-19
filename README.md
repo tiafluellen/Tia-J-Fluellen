@@ -62,6 +62,8 @@ I also enjoy improving my skills through hands-on projects and learning new tech
 
 I'm also working on computer science projects that help me practice coding, Git, and problem-solving.
 
+I also enjoy improving my skills through hands-on projects and learning new technologies.
+
  Thanks for visiting my profile!
 
  git add README.md
