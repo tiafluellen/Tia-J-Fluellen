@@ -6,24 +6,24 @@ I'm currently building my technical skills and learning how to use technology to
 
 ## Technical Skills
 
-- Python
-- C++
-- Git
-- GitHub
-- VS Code
-- Markdown
-- Problem Solving
-- Communication
+* Python
+* C++
+* Git
+* GitHub
+* VS Code
+* Markdown
+* Problem Solving
+* Communication
 
 ## What I'm Learning
 
 I'm currently learning more about:
 
-- Python programming
-- Git and GitHub
-- Software development
-- Product management
-- Working with data and technology
+* Python programming
+* Git and GitHub
+* Software development
+* Product management
+* Working with data and technology
 
 ## Projects
 
@@ -31,9 +31,9 @@ I'm working on computer science projects that help me practice coding, Git, and 
 
 ## Connect With Me
 
-- GitHub: https://github.com/tiafluellen
-- LinkedIn: https://www.linkedin.com/in/tia-fluellen-206895380/
-- Email: tiafluellen@abbey.bac.edu
+* GitHub: https://github.com/tiafluellen
+* LinkedIn: https://www.linkedin.com/in/tia-fluellen-206895380/
+* Email: [tiafluellen@abbey.bac.edu](mailto:tiafluellen@abbey.bac.edu)
 
 ## A Little More About Me
 
