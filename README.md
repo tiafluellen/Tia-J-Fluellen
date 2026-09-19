@@ -60,6 +60,8 @@ My goal is to continue growing my experience in technology and eventually contri
 
 I also enjoy improving my skills through hands-on projects and learning new technologies.
 
+I'm also working on computer science projects that help me practice coding, Git, and problem-solving.
+
  Thanks for visiting my profile!
 
  git add README.md
