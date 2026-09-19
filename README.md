@@ -17,6 +17,7 @@ git push
 - Markdown
 - Problem Solving
 - Communication
+- C++
 
   git add README.md
 git commit -m "Add technical skills"
@@ -35,6 +36,7 @@ I'm currently learning more about:
 ## Projects
 
 I'm working on projects that help me practice programming and problem-solving. I'm especially interested in building useful applications and learning how technology can improve people's experiences.
+I'm also working on computer science projects that help me practice coding, Git, and problem-solving.
 
 git add README.md
 git commit -m "Add learning goals and projects"
@@ -55,6 +57,8 @@ git push
 I'm excited to continue developing my technical and professional skills. I enjoy learning new things, solving problems, and working with others.
 
 My goal is to continue growing my experience in technology and eventually contribute to products that are useful and meaningful to people.
+
+I also enjoy improving my skills through hands-on projects and learning new technologies.
 
  Thanks for visiting my profile!
 
