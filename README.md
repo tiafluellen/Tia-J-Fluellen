@@ -74,3 +74,4 @@ git add README.md
 git commit -m "Resolve merge conflict in README"
 git push
 
+I'm continuing to build my Git and GitHub skills through this project.
